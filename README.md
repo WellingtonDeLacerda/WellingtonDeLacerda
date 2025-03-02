@@ -10,9 +10,9 @@
 - 👋 Olá, sou @WellingtonDeLacerda
 - 👀 Estou interessado em aprender novas linguagens 
 - 🌱 No momento, estou aprendendo Front-end com as linguagens HTML-CSS-JS
-    
-<img src="https://wellingtondelacerda.github.io/Mang/imagem/eu.jpg" width="300px" style="display:block;">
-
+    <div>
+<img src="https://wellingtondelacerda.github.io/Mang/imagem/eu.jpg" width="300px" >
+    </div>
 
 - 💞️ Estou procurando colaborar em criar jogos e sites 
 - 📫 Como entrar em contato comigo:----
