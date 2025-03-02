@@ -11,7 +11,7 @@
 - 👀 Estou interessado em aprender novas linguagens 
 - 🌱 No momento, estou aprendendo 
     
-<img src="https://wellingtondelacerda.github.io/Mang/imagem/Eu4.jpg" width="300px">
+<img src="https://wellingtondelacerda.github.io/Mang/imagem/eu.jpg" width="300px" style="display:block;">
 
 Front-end com as linguagens HTML-CSS-JS
 - 💞️ Estou procurando colaborar em criar jogos e sites 
