@@ -2,8 +2,10 @@
 <ul>
     <li><a src="#"target="_blank">Instagram</a>
     <li><a src="#"target="_blank">Facebook</a>
-    <li><a src="#"target="_blank">YouTube</a>
+    <li><a src="#"target="_blank">WhatsApp</a>
 </ul>
+
+=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
 - 👋 Olá, sou @WellingtonDeLacerda
 - 👀 Estou interessado em aprender novas linguagens 
 - 🌱 No momento, estou aprendendo Front-end com as linguagens HTML-CSS-JS
@@ -11,7 +13,9 @@
 - 📫 Como entrar em contato comigo:----
 - ⚡ Curiosidade: eu sou um ótimo desenhista 
 
-
+<ul>
+   <li><a href="https://youtube.com" target="_blank" rel="external" >YouTube</a>
+</ul>
 <!---
 WellingtonDeLacerda/WellingtonDeLacerda é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
 Você pode clicar no link Visualizar para dar uma olhada nas suas alterações.
