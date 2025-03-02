@@ -6,12 +6,17 @@
 </ul>
 
 =~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+<p>
 - 👋 Olá, sou @WellingtonDeLacerda
 - 👀 Estou interessado em aprender novas linguagens 
-- 🌱 No momento, estou aprendendo Front-end com as linguagens HTML-CSS-JS
+- 🌱 No momento, estou aprendendo 
+    
+<img src="https://wellingtondelacerda.github.io/Mang/imagem/Eu4.jpg" width="300px">
+
+Front-end com as linguagens HTML-CSS-JS
 - 💞️ Estou procurando colaborar em criar jogos e sites 
 - 📫 Como entrar em contato comigo:----
-- ⚡ Curiosidade: eu sou um ótimo desenhista 
+- ⚡ Curiosidade: eu sou um ótimo desenhista </p>
 
 <ul>
    <li><a href="https://youtube.com" target="_blank" rel="external" >YouTube</a>
