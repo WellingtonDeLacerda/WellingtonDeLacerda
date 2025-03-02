@@ -1,4 +1,9 @@
 <h1>welcome by my sites</h1>
+<ul>
+    <li><a src="#"target="_blank">Instagram</a>
+    <li><a src="#"target="_blank">Facebook</a>
+    <li><a src="#"target="_blank">YouTube</a>
+</ul>
 - 👋 Olá, sou @WellingtonDeLacerda
 - 👀 Estou interessado em aprender novas linguagens 
 - 🌱 No momento, estou aprendendo Front-end com as linguagens HTML-CSS-JS
